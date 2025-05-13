@@ -1,0 +1,2 @@
+# AL-LLM-DELL-AUTO-FAN
+自动调节DELL服务器风扇
